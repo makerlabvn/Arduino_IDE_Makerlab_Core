@@ -10,6 +10,8 @@ Arduino Uno
 Arduino Mega2560  
 Arduino Nano  
 Arduino Pro or Pro Mini  
+Arduino Leonardo  
+Arduino Micro  
 
 # USB Driver
 [CP2102](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads)  
@@ -20,9 +22,9 @@ Arduino Pro or Pro Mini
 Open Arduino, menu File -> Preferences  
 look at the bottom > Addition Boards Manager URL then copy below address on field  
 
-https://makerlabvn.github.io/package_makerlabvn_index.json  
+https://makerlabvn.github.io/package_makereduvn_index.json  
 
 click OK, then goto menu Tools -> Board -> Boards Manager  
-wait for Arduino check addition URL, then scroll down and looking for "MakerLab.vn AVR Boards" then click "Install"  
+wait for Arduino check addition URL, then scroll down and looking for "MakerEdu" then click "Install"  
 sitting back and wait for get files from internet and Installing...  
 Have Fun..  
